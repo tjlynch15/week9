@@ -12,7 +12,7 @@ def sort(items):
         in_order = False
         items[j], items[j+1] = items[j+1], items[j]
        
-  return(items)
+  return items
 
 
 
